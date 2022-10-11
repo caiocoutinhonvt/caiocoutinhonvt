@@ -5,7 +5,7 @@ Me chamo Caio, no momento atuo como Desenvolvedor Web Freelance utilizando o fra
 
  
   
-## Habilidades
+## Linguagens e Ferramentas
 
 
 

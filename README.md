@@ -5,8 +5,8 @@ Me chamo Caio, no momento atuo como Desenvolvedor Web Freelance utilizando o fra
 
 <div>
   <a href="https://github.com/caiocoutinhonvt">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=caiocoutinhonvt&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="120em" margin src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocoutinhonvt&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiocoutinhonvt&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="150em" margin src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocoutinhonvt&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 

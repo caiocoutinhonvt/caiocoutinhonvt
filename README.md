@@ -3,13 +3,6 @@
 
 Me chamo Caio, no momento atuo como Desenvolvedor Web Freelance utilizando o framework Django e a linguagem Python. Bem vindo ao meu perfil, onde documento e armazeno meus estudos e projetos pessoais como desenvolvedor.
 
-<div>
-  <a href="https://github.com/caiocoutinhonvt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiocoutinhonvt&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="150em" margin src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocoutinhonvt&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
-
  
   
 ## Habilidades

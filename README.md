@@ -1,16 +1,15 @@
 
-## Hello, World! 👋
+# Hello, World! 👋
 
-Me chamo Caio, no momento atuo como Desenvolvedor Web Freelance utilizando o framework Django e a linguagem Python. Bem vindo ao meu perfil, onde documento e armazeno meus estudos e projetos pessoais como desenvolvedor.
-
+Bem vindo ao meu perfil, onde documento e armazeno meus estudos e projetos pessoais como desenvolvedor. Me chamo Caio e no momento atuo como Desenvolvedor back-end Freelance, utilizando o framework Django e a linguagem Python. 
  
   
-## Linguagens e Ferramentas
+## 🧰 Linguagens e Ferramentas
 
 
 
 
-###      Frontend  
+####      Frontend  
 <div>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -22,7 +21,7 @@ Me chamo Caio, no momento atuo como Desenvolvedor Web Freelance utilizando o fra
 
 
 
-### Backend  
+#### Backend  
 <div>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
@@ -37,7 +36,7 @@ Me chamo Caio, no momento atuo como Desenvolvedor Web Freelance utilizando o fra
 
 
 
-### DevOps  
+#### DevOps  
 <div>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="AWS" height="50" /></a>  

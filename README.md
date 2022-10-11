@@ -4,7 +4,7 @@
 Bem vindo ao meu perfil, onde documento e armazeno meus estudos e projetos pessoais como desenvolvedor. Me chamo Caio e no momento atuo como Desenvolvedor back-end Freelance, utilizando o framework Django, banco de dados PostgreSQL e linguagem Python. 
  
   
-## 🧰 Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas
 
 
 

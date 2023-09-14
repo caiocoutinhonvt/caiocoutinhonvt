@@ -1,8 +1,9 @@
 
 # > Hello, World! 👋
 
-Bem vindo ao meu perfil, onde documento e armazeno meus estudos e projetos pessoais como desenvolvedor. Me chamo Caio e no momento atuo como Desenvolvedor back-end Freelancer, utilizando o framework Django, banco de dados PostgreSQL e linguagem Python. Meus estudos atuais estão focados em: Typescript, Angular e Node. 
-   
+Dev full Stack - NodeJS, Angular, Typescript, Python, Django 
+
+Bem vindo ao meu perfil, onde documento e armazeno meus estudos e projetos pessoais como desenvolvedor. Me chamo Caio Coutinho e no momento atuo como desenvolvedor fullstack na empresa CMSOL, trabalhando principalmente com as tecnologias NodeJS, Angular e Typescript.
 </div>
 
 ## Contato
